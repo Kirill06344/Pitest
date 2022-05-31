@@ -33,3 +33,4 @@ public class TestCalculator {
         assertEquals(1D, c.divide(1D, 1D), DELTA);
     }
 }
+
